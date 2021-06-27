@@ -6,5 +6,6 @@
 
 
 ### About me
-Computer Science student.
+Computer Science 🎓
+| Flutter Developer 💻
 
