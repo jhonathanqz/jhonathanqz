@@ -7,5 +7,15 @@
 
 ### About me
 Computer Science 🎓
-| Flutter Developer 💻
+| Flutter Developer 💻 
+#
+![Gmail Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathanqz&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanqz&layout=compact)](https://github.com/jhonathanqz/github-readme-stats)
+
 
