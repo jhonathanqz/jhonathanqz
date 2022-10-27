@@ -23,6 +23,7 @@ Computer Science 🎓
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathanqz&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathanqz&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanqz&layout=compact)](https://github.com/jhonathanqz/github-readme-stats)
