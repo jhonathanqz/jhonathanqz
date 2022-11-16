@@ -27,6 +27,8 @@ Computer Science 🎓
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathanqz&show_icons=true&theme=algolia)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonathanqz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
