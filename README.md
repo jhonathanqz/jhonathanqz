@@ -29,7 +29,7 @@ Computer Science 🎓
 ![Sqlite_Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Mariadb_Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-#### Cloud
+#### CI/CD
 ![Codemagic_Badge](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=Codemagic&logoColor=white)
 
 #### UI/UX
