@@ -1,66 +1,97 @@
-# Jhonathan Queiroz!
+<h1 align="center">Hi, I'm Jhonathan Queiroz 👋</h1>
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jhonathanqz)](https://github.com/jhonathanqz)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonathan-queiroz-747365161/)](https://www.linkedin.com/in/jhonathan-queiroz-747365161/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jhonathanqz011@gmail.com)](mailto:jhonathanqz011@gmail.com)
+<p align="center">
+  <a href="https://github.com/jhonathanqz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Flutter+%26+Mobile+Developer;Building+SaaS+products+end-to-end;Flutter+%E2%80%A2+Dart+%E2%80%A2+Go+%E2%80%A2+Firebase;From+idea+to+App+Store+%26+Google+Play" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://jhonathanqz.github.io/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/jhonathan-queiroz-747365161/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jhonathanqz011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jhonathanqz&style=for-the-badge&color=0D96F6&label=Profile+views" alt="Profile views"/>
+</p>
 
-### About me
-Flutter Developer 💻  | 
-Computer Science 🎓
-- [Portfolio](https://jhonathanqz.github.io/)
-### Technologies
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS Badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![PlayStore Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![AppStore Badge](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![Docker_Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-#### Database
-![Realm_Badge](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![Mongo_Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase_Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Sqlite_Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Mariadb_Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+### 🚀 About me
 
-#### CI/CD
-![Codemagic_Badge](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=Codemagic&logoColor=white)
+- 💻 **Flutter Developer** focused on high-quality mobile, web and desktop apps with a single codebase.
+- 🏗️ Founder of **JY Labtech**, where I build SaaS products end-to-end: apps, admin portals, APIs, licensing and billing.
+- 🎓 **Computer Science** graduate.
+- 📱 Experienced in publishing and maintaining apps on the **App Store** and **Google Play**.
+- ⚙️ I enjoy clean architecture, good UX, automated tests and CI/CD pipelines that ship every day.
+- 🌱 Currently going deeper into **Go** for backend services and cloud infrastructure.
+- 💬 Ask me about **Flutter, Dart, state management (BLoC), mobile releases and product development**.
 
-#### UI/UX
-![Figma_Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AdobeXd_Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+### 🛠️ What I do
 
-#### IDE
-![Xcode Badge](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![AndroidStudio_Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VSCode_Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+| Area | Highlights |
+| --- | --- |
+| **Mobile & Cross-platform** | Flutter apps for iOS, Android, Web and Desktop · BLoC/Cubit · go_router · offline-first |
+| **Backend** | REST APIs in Go and Node.js · MongoDB · Firebase · authentication and permissions |
+| **Product & SaaS** | Licensing, subscriptions and payments (Stripe), dashboards, customer support portals |
+| **DevOps** | GitHub Actions and Codemagic pipelines · Docker · automated store builds and deploys |
+| **UI/UX** | Design systems and prototypes in Figma, turned into pixel-perfect interfaces |
 
-#### Office
-![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Miro_Badge](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jhonathanqz)](https://github.com/jhonathanqz)
-![GitLab_Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure_Badge](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Ubuntu_Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
 
+### 🧰 Tech stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanqz&layout=compact)](https://github.com/jhonathanqz/github-readme-stats)
+**Languages & Frameworks**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathanqz&show_icons=true&theme=algolia)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,go,swift,kotlin,java,js,ts,react,nodejs,html,css&perline=12" alt="Languages and frameworks"/>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonathanqz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+**Databases & Cloud**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,sqlite,mysql,cloudflare,gcp,azure,docker&perline=12" alt="Databases and cloud"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" alt="Realm" height="48"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="48"/>
+</p>
 
+**Tools, CI/CD & Design**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,androidstudio,vscode,figma,linux,ubuntu,apple&perline=12" alt="Tools"/>
+</p>
 
+<p>
+  <img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white" alt="Codemagic"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=F7C922" alt="Miro"/>
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<table align="center">
+  <tr>
+    <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=jhonathanqz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub stats"/></td>
+    <td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanqz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Top languages"/></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jhonathanqz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonathanqz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Let's build something great together!</b> 🤝<br/>
+  Open to collaborations, freelance projects and new opportunities.
+</p>
